@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/adel/work/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/adel/work/src/abb_libegm/include/**",
+        "/home/adel/work/src/abb_librws/include/**",
+        "/home/adel/work/src/bcinterface/include/**",
+        "/home/adel/work/src/industrial_core/industrial_robot_client/include/**",
+        "/home/adel/work/src/industrial_core/industrial_trajectory_filters/include/**",
+        "/home/adel/work/src/industrial_core/industrial_utils/include/**",
+        "/home/adel/work/src/roboticarm/include/**",
+        "/home/adel/work/src/robotiq_85_gripper-master/robotiq_85_simulation/roboticsgroup_gazebo_plugins/include/**",
+        "/home/adel/work/src/industrial_core/simple_message/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

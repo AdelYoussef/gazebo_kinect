@@ -1,0 +1,10 @@
+
+<launch>
+  <include file="$(find camera)/launch/gazebo_camera.launch"/>
+
+  <!--openCV script node-->
+  <node name="camera" pkg="camera" type="camera.py"  output="screen"/>
+
+  <!--TensorFlow script node-->
+  <!-- <node name="det_tf" pkg="camera" type="obj_det_tf.py"  output="screen"/>-->
+</launch>
