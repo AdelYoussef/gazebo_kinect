@@ -15,7 +15,7 @@ here HSV masking was used to detect the position of each cube according to it's 
 
 the tensorFlow model uses mobilenet pretrained model to identify the class of the object and detect the object's position
 
-![WhatsApp Image 2022-03-16 at 4 59 56 PM](https://user-images.githubusercontent.com/63298005/159408291-7d568748-393f-4e33-b5d9-241ea4418d48.jpeg)
+![   ](https://user-images.githubusercontent.com/63298005/159408291-7d568748-393f-4e33-b5d9-241ea4418d48.jpeg)
 
 
 
